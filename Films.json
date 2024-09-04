@@ -1,7 +1,30 @@
 [
-{"id_films":"1","titre_film":"Les Nerfs à vifLes Nerfs à vif","année_film":"1991","img_film":"https:\/\/d1yei2z3i6k35z.cloudfront.net\/4639540\/66a2d354a473d_LesNerfsvifVFFilmStreaming100g","lien_film":"https:\/\/netfilms.systeme.io\/netcinema\/les-nerfs-a-vif"},
-{"id_films":"2","titre_film":"Descendants : L’Ascension de Red","année_film":"2024","img_film":"https:\/\/d1yei2z3i6k35z.cloudfront.net\/4639540\/66a091bb3cbcd_DescendantsLAscensiondeRedfilm","lien_film":"https:\/\/netfilms.systeme.io\/netcinema\/descendants-ascension-de-red"},
-{"id_films":"3","titre_film":"Bad Boys : Ride or Die","année_film":"2024","img_film":"https:\/\/d1yei2z3i6k35z.cloudfront.net\/4639540\/66a08b9b67fb1_BadBoys-RideorDiefilmsenstream","lien_film":"https:\/\/netfilms.systeme.io\/netcinema\/bad-boys"},
-{"id_films":"4","titre_film":"Blue & Compagnie","année_film":"2024","img_film":"https:\/\/d1yei2z3i6k35z.cloudfront.net\/4639540\/66a221a886c82_BlueCompagnieVFFilmStreaming10","lien_film":"https:\/\/netfilms.systeme.io\/netcinema\/blue-compagnie"}
+    {
+        "id_films": "1",
+        "titre_film": "Les Nerfs à vif",
+        "année_film": "1991",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66a2d57586249_LesNerfsvifVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "les-nerfs-a-vif"
+    },
+    {
+        "id_films": "2",
+        "titre_film": "Descendants : L’Ascension de Red",
+        "année_film": "2024",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66a0948852481_DescendantsLAscensiondeRedfilmsenstreaminggratuitementsurnetfilms.frxvide.frprimeserie.fr.jpg",
+        "lien_film": "descendants-ascension-de-red"
+    },
+    {
+        "id_films": "3",
+        "titre_film": "Bad Boys : Ride or Die",
+        "année_film": "2024",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66a4a18e32d23_BadBoysforlifeVFbFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "bad-boys"
+    },
+    {
+        "id_films": "4",
+        "titre_film": "Blue & Compagnie",
+        "année_film": "2024",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66a22b2bf15c9_BlueCompagnieVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "blue-compagnie"
+    }
 ]
-
