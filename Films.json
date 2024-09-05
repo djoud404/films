@@ -40,5 +40,33 @@
         "année_film": "2024",
         "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d5110f53f8a_HaroldetlecrayonmagiqueVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
         "lien_film": "harold-et-le-crayon-magique"
+    },
+     {
+        "id_films": "7",
+        "titre_film": "Le livre de Clarence",
+        "année_film": "2024",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d508df8a51a_LelivredeClarenceVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "le-livre-de-clarence"
+    },
+    {
+        "id_films": "8",
+        "titre_film": "La chimère",
+        "année_film": "2023",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d5072833d5f_LachimreVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "la-chimere"
+    },
+    {
+        "id_films": "9",
+        "titre_film": "Jumanji : Next Level",
+        "année_film": "2019",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d5046906bb2_JumanjiNextLevelVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "jumanji-next-level"
+    },
+    {
+        "id_films": "10",
+        "titre_film": "Jumanji : Bienvenue dans la jungle",
+        "année_film": "2017",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d5020d45975_JumanjiBienvenuedanslajungleVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "jumanji-bienvenue-dans-la-jungle"
     }
 ]
