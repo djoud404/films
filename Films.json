@@ -68,5 +68,47 @@
         "année_film": "2017",
         "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d5020d45975_JumanjiBienvenuedanslajungleVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
         "lien_film": "jumanji-bienvenue-dans-la-jungle"
+    },
+    {
+        "id_films": "11",
+        "titre_film": "À la conquête de Billy Walsh",
+        "année_film": "2024",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d4841cb5be8_laconqutedeBillyWalshVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "a-la-conquete-de-billy-walsh"
+    },
+    {
+        "id_films": "12",
+        "titre_film": "Puppy Love",
+        "année_film": "2023",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d481633d3b9_PuppyLoveVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "a-la-conquete-de-billy-walsh"
+    },
+    {
+        "id_films": "13",
+        "titre_film": "Sweet Dreams",
+        "année_film": "2024",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d47edfb55f0_SweetDreamsVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "sweet-dreams"
+    },
+     {
+        "id_films": "14",
+        "titre_film": "Bright",
+        "année_film": "2017",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d474c692f74_BrightVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "bright"
+    },
+    {
+        "id_films": "15",
+        "titre_film": "The Grudge",
+        "année_film": "2004",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d33f027c850_TheGrudgeVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "the-grudge-1"
+    },
+    {
+        "id_films": "16",
+        "titre_film": "The Grudge 2",
+        "année_film": "2006",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d3306a5b3dc_TheGrudge2VFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "the-grudge-2"
     }
 ]
