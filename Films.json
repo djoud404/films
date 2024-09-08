@@ -135,8 +135,36 @@
     {
         "id_films": "20",
         "titre_film": "Blowback",
-        "année_film": "2000",
+        "année_film": "2022",
         "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d2caf2be967_BlowbackVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
         "lien_film": "blowback"
+    },
+    {
+        "id_films": "21",
+        "titre_film": "Les Faussaires de Manhattan",
+        "année_film": "2018",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66dd67cae1b58_LesFaussairesdeManhattanVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "les-faussaires-de-manhattan"
+    },
+    {
+        "id_films": "22",
+        "titre_film": "Signes",
+        "année_film": "2002",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d2c7276a616_SignesVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "signes"
+    },
+     {
+        "id_films": "23",
+        "titre_film": "Le Cercle : Rings",
+        "année_film": "2017",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d2c3c0cc4a3_LeCercleRingsVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "le-cercle-rings"
+    },
+    {
+        "id_films": "24",
+        "titre_film": "L'Impasse : De la rue au pouvoir",
+        "année_film": "2005",
+        "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d266e584e45_LImpasseDelarueaupouvoirVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+        "lien_film": "impasse-de-la-rue-au-pouvoir"
     }
 ]
