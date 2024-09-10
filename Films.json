@@ -166,5 +166,75 @@
         "année_film": "2005",
         "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66d266e584e45_LImpasseDelarueaupouvoirVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
         "lien_film": "impasse-de-la-rue-au-pouvoir"
-    }
+    },
+     {
+    "id_films": "25",
+    "titre_film": "Paradise",
+    "année_film": "2023",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66dfe2d181600_ParadiseVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "paradise"
+  },
+  {
+    "id_films": "26",
+    "titre_film": "American Carnage",
+    "année_film": "2022",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66dfde76c751c_AmericanCarnageVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "american-carnage"
+  },
+  {
+    "id_films": "27",
+    "titre_film": "Devil's Peak",
+    "année_film": "2023",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66dfda916222f_DevilsPeakVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "devils-peak"
+  },
+  {
+    "id_films": "28",
+    "titre_film": "Crescent City",
+    "année_film": "2024",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66df368529018_CrescentCityVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "crescent-city"
+  },
+  {
+    "id_films": "29",
+    "titre_film": "Clear Cut",
+    "année_film": "2024",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66df27d360d58_ClearCutVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "clear-cut"
+  },
+  {
+    "id_films": "30",
+    "titre_film": "Knox",
+    "année_film": "2024",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66df243143d79_KnoxVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "knox"
+  },
+  {
+    "id_films": "31",
+    "titre_film": "The Housekeeper",
+    "année_film": "2024",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66df1bce4f918_TheHousekeeperVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "the-housekeeper"
+  },
+  {
+    "id_films": "32",
+    "titre_film": "Jeanne d'Arc",
+    "année_film": "1999",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66df0cce89ad4_JeannedArcVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "jeanne-d-arc"
+  },
+  {
+    "id_films": "33",
+    "titre_film": "Rendel",
+    "année_film": "2017",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66df05fe9b140_RendelVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "rendel"
+  },
+  {
+    "id_films": "34",
+    "titre_film": "La Mule",
+    "année_film": "2018",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66def9fcd0cc3_LaMuleVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "la-mule"
+  }
 ]
