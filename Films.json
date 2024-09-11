@@ -866,5 +866,47 @@
     "année_film": "2016",
     "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66a4e206ed4f7_BadBoysIVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
     "lien_film": "bad-boys-1"
+  },
+    {
+    "id_films": "125",
+    "titre_film": "Bad Boys II",
+    "année_film": "2019",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66a4bd6c76cfd_BadBoysIIVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "bad-boys-2"
+  },
+  {
+    "id_films": "126",
+    "titre_film": "Bad Boys for Life",
+    "année_film": "2020",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66a4a18e32d23_BadBoysforlifeVFbFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "bad-boys-for-life"
+  },
+  {
+    "id_films": "127",
+    "titre_film": "Descendants",
+    "année_film": "2018",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66a2de25774ee_DescendantsVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "descendants"
+  },
+  {
+    "id_films": "128",
+    "titre_film": "What Happens Later",
+    "année_film": "2023",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66a2416e2e7bf_WhatHappensLaterVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "what-happens-later"
+  },
+  {
+    "id_films": "129",
+    "titre_film": "La Planète des Singes : Le Nouveau Royaume",
+    "année_film": "2024",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/6692a61c53133_LaPlantedesSinges-LeNouveauRoyaumefilmenstreaminggratuitsurnetflixnetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "la-planete-des-singes-le-nouveau-royaume"
+  },
+  {
+    "id_films": "130",
+    "titre_film": "Thanksgiving : La Semaine de l'horreur",
+    "année_film": "2023",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66926e8de230d_Thanksgiving-lasemainedelhorreurfilmenstreaminggratuitsurnetflixnetfilms.fretprimeserie.fr.webp",
+    "lien_film": "thanksgiving"
   }
 ]
