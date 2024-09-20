@@ -908,5 +908,75 @@
     "année_film": "2023",
     "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66e5ca74df359_Thanksgiving-La-Semaine-de-lhorreur-Film-Streaming-VF-100-gratuit-sur-netfilms.fr-Netflix.jpg",
     "lien_film": "thanksgiving"
+  },
+    {
+    "id_films": "131",
+    "titre_film": "Le Seigneur des anneaux : Le Retour du roi",
+    "année_film": "2013",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66ed465eafdd2_LeSeigneurdesanneauxLeRetourduroiVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "le-seigneur-des-anneaux-le-retour-du-roi"
+  },
+  {
+    "id_films": "132",
+    "titre_film": "Le Seigneur des anneaux : La Communauté de l'anneau",
+    "année_film": "2001",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66eca8387c05c_LeSeigneurdesanneaux-LaCommunautdelanneauVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "le-seigneur-des-anneaux-la-communaute-de-l-anneau"
+  },
+  {
+    "id_films": "133",
+    "titre_film": "Le Mauvais Esprit d'Halloween",
+    "année_film": "2022",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66eb7292d370e_LeMauvaisEspritdHalloweenVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "le-mauvais-esprit-d-halloween"
+  },
+  {
+    "id_films": "134",
+    "titre_film": "L'Odyssée d'Albert",
+    "année_film": "2021",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66eb72b1ac7b2_LOdyssedAlbertVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "l-odyssee-d-albert"
+  },
+  {
+    "id_films": "135",
+    "titre_film": "Captain America : Civil War",
+    "année_film": "2016",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66eb551ec0262_CaptainAmerica-CivilWarVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "captain-america-civil-war"
+  },
+  {
+    "id_films": "136",
+    "titre_film": "Captain America : Le Soldat de l'hiver",
+    "année_film": "2014",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66eb502e18d25_CaptainAmerica-LeSoldatdelhiverVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "captain-america-le-soldat-de-lhiver"
+  },
+  {
+    "id_films": "137",
+    "titre_film": "Captain America : First Avenger",
+    "année_film": "2011",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66eb4cadf10ad_CaptainAmerica-FirstAvengerVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "captain-america-first-avenger"
+  },
+  {
+    "id_films": "138",
+    "titre_film": "Matrix Reloaded",
+    "année_film": "2003",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66eaf7d13610a_MatrixReloadedVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "matrix-reloaded"
+  },
+  {
+    "id_films": "139",
+    "titre_film": "Matrix Resurrections",
+    "année_film": "2021",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66eaa993d2958_MatrixResurrectionsVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "matrix-resurrections"
+  },
+  {
+    "id_films": "140",
+    "titre_film": "Matrix",
+    "année_film": "2009",
+    "img_film": "https://d1yei2z3i6k35z.cloudfront.net/4639540/66eaa6654264a_MatrixVFFilmStreaming100gratuitsurxvide.frNetflixFreenetfilms.fretprimeserie.fr.jpg",
+    "lien_film": "Matrix"
   }
 ]
